@@ -2,8 +2,8 @@
 from random import randint
 from art import logo
 
-EASY_ATTEMPTS = 5
-HARD_ATTEMPTS = 10
+EASY_ATTEMPTS = 10
+HARD_ATTEMPTS = 5
 
 
 def set_diff():   
